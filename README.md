@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Development** and other bunch of stuff.
 
-- 📫 You can reach me on **[Telegram](https://t.me/unrasyonel)** or **[Email](orhaner3141@proton.me)** for based conversations.
+- 📫 You can reach me on **[Telegram](https://t.me/unrasyonel)** or **[Email](mailto:orhaner3141@proton.me)** for based conversations.
 
 - ⚡ Fun fact: We know what we are, but we don't know what we will be.
 
